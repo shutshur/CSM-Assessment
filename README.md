@@ -21,7 +21,7 @@ A lightweight dashboard for Customer Success Managers to ingest customer data ma
 
 1. **Download files:** Save `index.html` and `app.js` into the exact same folder.
 2. **Launch:** Double-click `index.html` to open it directly in any modern web browser (*no local server or installations required*).
-3. **Authenticate (Optional):** Paste your AI system token in the sidebar gateway to unlock live cloud responses.
+3. **Authenticate:** Paste your AI system token in the sidebar gateway to unlock live cloud responses (work in progress, Gemini API currently the most stable).
 4. **Upload Data:** Ingest your customer evaluation CSV file through the **"Data Ingestion"** box.
 
 ---
